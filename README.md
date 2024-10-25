@@ -1,8 +1,8 @@
-# `Lite-Alternatives`
+# `Another-Alternatives`
 
 Inspired by [Alternatives](https://github.com/MicrocontrollersDev/Alternatives/).
 
-Lite-Alternatives follows the same concept but aims to be smaller, lighter, and more helpful.
+This project follows the same concept but aims to be smaller, lighter, and more helpful.
 
 - Simple commands and switches, instead of heavy graphical interfaces like `OneConfig` (useful, but not my style)
 - Lightweight, modular mods, instead of an all-in-one mod

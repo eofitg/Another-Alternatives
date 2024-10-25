@@ -10,3 +10,10 @@ This project follows the same concept but aims to be smaller, lighter, and more 
 - Includes additional tweaks and tools to enhance experience,  beyond just being an alternative
 
 No SkyBlock mods since I don't play.
+
+### Progress
+
+- [ ] BadLion ✏️
+- [ ] Lunar
+- [ ] 5zig
+- [ ] mod_features ✏️

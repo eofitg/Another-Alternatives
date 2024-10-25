@@ -1,4 +1,4 @@
-# `Another-Alternatives`
+# Another Alternatives
 
 Inspired by [Alternatives](https://github.com/MicrocontrollersDev/Alternatives/).
 

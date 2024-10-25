@@ -8,3 +8,5 @@ This project follows the same concept but aims to be smaller, lighter, and more 
 - Lightweight, modular mods, instead of an all-in-one mod
 - No auto-added dependencies like `Essential` (all I want is just what I download)
 - Includes additional tweaks and tools to enhance experience,  beyond just being an alternative
+
+No SkyBlock mods since I don't play.

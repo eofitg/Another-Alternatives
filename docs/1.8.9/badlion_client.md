@@ -4,10 +4,14 @@
 
 ### Simple
 
-* Animations - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
-* Armor Status - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Animations
+  * [OldAnimationsMod](https://oldanimationsmod.net/index.php?page=downloads)
+  * [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
+* Armor Status
+  * [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+  * [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
 * AutoGG - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
-  * Auto Text - [RedthMC's AutoText](https://github.com/RedthMC/AutoText/releases/latest)
+* Auto Text - [RedthMC's AutoText](https://github.com/RedthMC/AutoText/releases/latest)
 * AutoTip - 
 * Bedwars Beds - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 * Bedwars Upgrade Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
@@ -39,7 +43,9 @@
 * CPS Counter - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
 * Crosshair Mod - [Polyfrost's PolyCrosshair](https://modrinth.com/mod/crosshair)
 * Damage Tint - [isXanders's LowHPTint](https://short.isxander.dev/lowhptint)
-* Direction - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Direction 
+  * [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+  * [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
 * Enchant Glint - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * FOV Changer - 
 * FPS - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
@@ -86,7 +92,9 @@
 * Perspective Mod - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 * Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud) (disabled for now)
 * Player Counter -
-* Potion Status - [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
+* Potion Status
+  * [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
+  * [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
 * Protection - 
 * PvP Info -
 * Quickplay - [QWERTZexe's Quickjoin](https://modrinth.com/mod/quickjoin)
@@ -140,7 +148,9 @@
     * Hide Lobby Join Messages - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) / [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
     * Hide Lobby Messages - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
 * ToggleSneak - [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
-* ToggleSprint - [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
+* ToggleSprint
+  * [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
+  * [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
 * Waypoints -
 * Zoom - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) 
 

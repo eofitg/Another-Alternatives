@@ -90,6 +90,7 @@
 * Mouse Strokes
 * Name History
 * Name Tags
+  * [ArtFect's NameTag Editor](https://hypixel.net/threads/forge-1-8-9-nametag-editor-v1-3.1737434/)
   * [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag)
 * Nick Hider
 * Oof

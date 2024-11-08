@@ -17,3 +17,7 @@ No SkyBlock mods since I don't play.
 - [ ] Lunar
 - [ ] 5zig
 - [ ] mod_features ✏️
+
+### Warning
+
+**⚠ This project is still a work in progress, don't use any mods from the list for now!**

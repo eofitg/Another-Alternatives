@@ -8,17 +8,19 @@
   * [OldAnimationsMod](https://oldanimationsmod.net/index.php?page=downloads)
   * [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
 * Armor Status
-  * [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
   * [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
 * AutoGG - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 * Auto Text - [RedthMC's AutoText](https://github.com/RedthMC/AutoText/releases/latest)
 * AutoTip
 * Bedwars Beds - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
-* Bedwars Upgrade Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Bedwars Upgrade Display
 * Block Counter
-* Block Overlay - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar)
-* BlockInfo - [Profmobius's What Am I Looking At](https://www.curseforge.com/minecraft/mc-mods/waila/files?version=1.8.9)
-* Bossbar - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
+* Block Overlay
+  * [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar) | [Alt Link](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
+* BlockInfo
+  * [Profmobius's What Am I Looking At](https://www.curseforge.com/minecraft/mc-mods/waila/files?version=1.8.9)
+* Bossbar
+  * [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
 * Chat
     * 24 Hour
     * Bold
@@ -36,79 +38,116 @@
     * Move Chat Above Hearts - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
     * Smooth Chat Speed - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
 * Chunk Borders - [tildejustin & MicrocontrollerDev's Legacy Chunk Borders](https://modrinth.com/mod/legacy-chunk-borders-forge)
-* Clear Glass - Use a resource pack
-* Clock - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Combo Counter - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Coordinates - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* CPS Counter - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Crosshair Mod - [Polyfrost's PolyCrosshair](https://modrinth.com/mod/crosshair)
-* Damage Tint - [isXanders's LowHPTint](https://short.isxander.dev/lowhptint)
-* Direction 
-  * [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Clear Glass
+  * Resource pack
+* Clock
+* Combo Counter
+* Coordinates
+* CPS Counter
+* Crosshair Mod
+  * [Polyfrost's PolyCrosshair](https://modrinth.com/mod/crosshair)
+* Damage Tint
+  * [isXanders's LowHPTint](https://short.isxander.dev/lowhptint)
+* Direction
   * [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
 * Enchant Glint - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
 * FOV Changer
-* FPS - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* FPS
+  * [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Fullbright
+  * Resource pack
+  * Shader pack
+  * [Armandukx's Fullbright](https://modrinth.com/mod/full-bright/version/v1.0.0)
 * GUI
-* Height Overlay - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
-* Hit Color - [Polyfrost's DamageTint](https://modrinth.com/mod/damagetint)
-* Hitboxes - [Polyfrost's PolyHitbox](https://modrinth.com/mod/hitbox)
-* Inventory Blur - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
-* Item Counter - [ImToggles's Item Counter](https://modrinth.com/mod/item-counter-mod)
+* Height Overlay
+  * [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
+* Hit Color
+  * [Polyfrost's DamageTint](https://modrinth.com/mod/damagetint)
+* Hitboxes
+  * [Polyfrost's PolyHitbox](https://modrinth.com/mod/hitbox)
+* In-Game Account Switcher
+  * [The_Fireplace's In-Game Account Switcher](https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher/files/2363885)
+* Inventory Blur
+  * [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
+* Item Counter
+  * [ImToggles's Item Counter](https://modrinth.com/mod/item-counter-mod)
 * Item Info
-* Item Physics - [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
+* Item Physics
+  * [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 * Item Tracker
-* JustEnoughItems - [mezz's JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files?version=1.8.9)
-* Keystrokes - [Polyfrost's Canelex Keystrokes Revamp](https://modrinth.com/mod/keystrokes)
+* JustEnoughItems
+  * [mezz's JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files?version=1.8.9)
+* Keystrokes
+  * [Polyfrost's Canelex Keystrokes Revamp](https://modrinth.com/mod/keystrokes)
 * Levelhead
 * Light Overlay
-* Memory - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* MiniMap - [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files?version=1.8.9)
+* Memory
+* MiniMap
+  * [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files?version=1.8.9)
 * MLG Cobweb
-* Motion Blur - [Polyfrost's PolyBlur](https://modrinth.com/mod/polyblur)
+* Motion Blur
+  * [Polyfrost's PolyBlur](https://modrinth.com/mod/polyblur)
 * Mouse Strokes
 * Name History
-* Name Tags - [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag)
+* Name Tags
+  * [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag)
 * Nick Hider
-* Oof - [Refraction's OofMod](https://sk1er.club/mods/refractionoof)
-* Pack Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Oof
+  * [Refraction's OofMod](https://sk1er.club/mods/refractionoof)
+* Pack Display
 * Pack Tweaks
-    * Custom Fire - Use a resource pack
+    * Custom Fire - Resource pack
     * Transparent UI
-    * Hide Pumpkin Overlay - Use a resource pack
-    * Visible Tripwires - Use a resource pack
-    * Fishing Line Color - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
-    * Fishing Line Width - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
+    * Hide Pumpkin Overlay - Resource pack
+    * Visible Tripwires - Resource pack
+    * Fishing Line Color
+      * [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
+    * Fishing Line Width
+      * [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
     * Trip Wire Color
-    * Water Opacity - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) (clear water to an extent)
-    * Water Fog - Use a resource pack
-    * Bigger Items - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
-    * Custom Skies - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
-    * Biome Blending - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+    * Water Opacity
+      * [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) (clear water to an extent)
+    * Water Fog
+      * Resource pack
+    * Bigger Items
+      * Resource pack
+      * [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
+    * Custom Skies
+      * [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+    * Biome Blending
+      * [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
     * XP Orb Colors
-    * Ore Overlays - Use a resource pack
-* Particles - [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)
-* Perspective Mod - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
-* Ping - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud) (disabled for now)
+    * Ore Overlays
+      * Resource pack
+* Particles
+  * [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)
+* Perspective Mod
+  * [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
+* Ping
 * Player Counter
 * Potion Status
   * [Tellinq's Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest)
   * [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
 * Protection
 * PvP Info
-* Quickplay - [QWERTZexe's Quickjoin](https://modrinth.com/mod/quickjoin)
-* Reach Display - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Saturation - [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files?version=1.8.9)
-* Scoreboard - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
-* Server Address - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
-* Shaders - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
-* Shiny Pots - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
-* StopWatch - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Quickplay
+  * [QWERTZexe's Quickjoin](https://modrinth.com/mod/quickjoin)
+* Reach Display
+  * [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Saturation
+  * [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files?version=1.8.9)
+* Scoreboard
+  * [Alexduro's Sidebar Mod](https://github.com/Alexdoru/SidebarMod/releases)
+* Server Address
+* Shaders
+  * [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+* Shiny Pots
+  * [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
+* StopWatch
 * Survival
     * Lock Items in Inventory - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
     * Anti Breaking Tools
-    * Show Ender Chest Inventory - [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+    * Show Ender Chest Inventory
     * Inventory Search Bar - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
 * Tab
     * Background - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
@@ -152,7 +191,8 @@
   * [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
   * [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
 * Waypoints
-* Zoom - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) 
+* Zoom
+  * [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) 
 
 ### Complex
 
@@ -176,7 +216,7 @@ These are mods that Badlion has but are not mentioned in their support for one r
 * Fancy Fonts - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files?version=1.8.9)
 * Ghost Liquid Fix - Don't use
 * HyStats - [KAD7's HyStats](https://cdn.discordapp.com/attachments/1009757412921708604/1134269972877676574/HyStats-v4.0_1.8.9.jar)
-* Ingame Server Switcher - [Sk1er & Polyfrost's PolyPatcher](https://modrinth.com/mod/patcher)
+* In-Game Server Switcher
 * Replay Mod - [Johni0702's Replay Mod](https://modrinth.com/mod/replaymod)
 * Text Shadow
 * Weather Changer - [Polyfrost's PolyWeather](https://modrinth.com/mod/polyweather)

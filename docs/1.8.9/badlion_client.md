@@ -9,7 +9,9 @@
   * [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
 * Armor Status
   * [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
-* AutoGG - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
+  * [Dmitrylovin's Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
+* AutoGG
+  * Use ChatFilter Mod
 * Auto Text - [RedthMC's AutoText](https://github.com/RedthMC/AutoText/releases/latest)
 * AutoTip
 * Bedwars Beds - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
@@ -20,7 +22,7 @@
 * BlockInfo
   * [Profmobius's What Am I Looking At](https://www.curseforge.com/minecraft/mc-mods/waila/files?version=1.8.9)
 * Bossbar
-  * [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
+  * [OldAnimationsMod](https://oldanimationsmod.net/index.php?page=downloads)
 * Chat
     * 24 Hour
     * Bold
@@ -28,15 +30,20 @@
     * Time Format
     * Infinite History
     * History Length
-    * Smooth Chat - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
+    * Smooth Chat
+      * 5zig mod
+      * [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/download/3249065)
     * No Close My Chat
-    * Background (color) - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
+    * Background (color)
     * Time (color)
-    * Highlight Username In Chat - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
+    * Highlight Username In Chat 
+      * 5zig mod
+      * [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
     * Toggle Chat (keybind)
     * Copy Coordinates (keybind) 
-    * Move Chat Above Hearts - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
-    * Smooth Chat Speed - [Polyfrost's Chatting](https://modrinth.com/mod/chatting)
+    * Move Chat Above Hearts
+      * [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/download/3249065)
+    * Smooth Chat Speed
 * Chunk Borders - [tildejustin & MicrocontrollerDev's Legacy Chunk Borders](https://modrinth.com/mod/legacy-chunk-borders-forge)
 * Clear Glass
   * Resource pack
@@ -44,6 +51,7 @@
 * Combo Counter
 * Coordinates
 * CPS Counter
+  * [Dams4K's CPS Display](https://www.curseforge.com/minecraft/mc-mods/cpsdisplay)
 * Crosshair Mod
   * [Polyfrost's PolyCrosshair](https://modrinth.com/mod/crosshair)
 * Damage Tint
@@ -65,6 +73,7 @@
   * [Polyfrost's DamageTint](https://modrinth.com/mod/damagetint)
 * Hitboxes
   * [Polyfrost's PolyHitbox](https://modrinth.com/mod/hitbox)
+  * [Applepies' Hitboxes](https://modrinth.com/mod/lfhitboxes/versions)
 * In-Game Account Switcher
   * [The_Fireplace's In-Game Account Switcher](https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher/files/2363885)
 * Inventory Blur
@@ -93,9 +102,11 @@
   * [ArtFect's NameTag Editor](https://hypixel.net/threads/forge-1-8-9-nametag-editor-v1-3.1737434/)
   * [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag)
 * Nick Hider
+  * [TheExploration's Name Spoofer](https://github.com/TheExploration/Name-Spoofer)
 * Oof
   * [Refraction's OofMod](https://sk1er.club/mods/refractionoof)
 * Pack Display
+  * [Rakib_The_Gamer_Boy's Lunar Pack Display](https://www.curseforge.com/minecraft/mc-mods/lunar-pack-display)
 * Pack Tweaks
     * Custom Fire - Resource pack
     * Transparent UI
@@ -121,7 +132,6 @@
     * Ore Overlays
       * Resource pack
 * Particles
-  * [Polyfrost's OverflowParticles](https://modrinth.com/mod/overflowparticles)
 * Perspective Mod
   * [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 * Ping
@@ -168,7 +178,8 @@
     * Header and Footer Text Shadow - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
     * Remove Guild Tags (Hypixel) - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
     * Remove NPCs (Hypixel)- [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
-* TimeChanger - [Polyfrost's PolyTime](https://modrinth.com/mod/polytime)
+* TimeChanger
+  * [Daviawcode's Revamped TimeChanger](https://github.com/davidwcode/Revamped-TimeChanger)
 * TNT Time
 * ToggleChat
     * Abbreviate Chat Channels - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)

@@ -4,24 +4,29 @@
 
 ### Simple
 
+* 3D Skins
 * Animations
   * [OldAnimationsMod](https://oldanimationsmod.net/index.php?page=downloads)
   * [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
 * Armor Status
   * [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
   * [Dmitrylovin's Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
-* AutoGG
-  * Use ChatFilter Mod
+* Auto Friend
 * Auto Text - [RedthMC's AutoText](https://github.com/RedthMC/AutoText/releases/latest)
+* AutoGG/AutoGL
+  * Use ChatFilter Mod
 * AutoTip
-* Bedwars Beds - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
+* AutoWho
+* Bedwars Beds
+* Bedwars Teams
+* Bedwars Tweaks
 * Bedwars Upgrade Display
 * Block Counter
-* Block Overlay
-  * [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar) | [Alt Link](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 * BlockInfo
   * [Profmobius's What Am I Looking At](https://www.curseforge.com/minecraft/mc-mods/waila/files?version=1.8.9)
-* Bossbar
+* Block Overlay
+  * [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar) | [Alt Link](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
+* Boss bar
   * [OldAnimationsMod](https://oldanimationsmod.net/index.php?page=downloads)
 * Chat
     * 24 Hour
@@ -45,15 +50,18 @@
       * [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/download/3249065)
     * Smooth Chat Speed
 * Chunk Borders - [tildejustin & MicrocontrollerDev's Legacy Chunk Borders](https://modrinth.com/mod/legacy-chunk-borders-forge)
+* Clan Wars
 * Clear Glass
   * Resource pack
 * Clock
+* Color Saturation
+  * Shader pack
 * Combo Counter
 * Coordinates
 * CPS Counter
   * [Dams4K's CPS Display](https://www.curseforge.com/minecraft/mc-mods/cpsdisplay)
 * Crosshair Mod
-  * [Polyfrost's PolyCrosshair](https://modrinth.com/mod/crosshair)
+  * [Sparkless101's Custom Crosshair Mod](https://modrinth.com/mod/custom-crosshair-mod) | [Alt Link](https://customcrosshairmod.com/)
 * Damage Tint
   * [isXanders's LowHPTint](https://short.isxander.dev/lowhptint)
 * Direction

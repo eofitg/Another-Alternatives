@@ -66,9 +66,12 @@
   * [isXanders's LowHPTint](https://short.isxander.dev/lowhptint)
 * Direction
   * [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
-* Enchant Glint - [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
+* Enchant Glint
+* F3 Menu
+* Fog Customizer
 * FOV Changer
 * FPS
+  * 5zig mod
   * [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Fullbright
   * Resource pack
@@ -76,12 +79,13 @@
   * [Armandukx's Fullbright](https://modrinth.com/mod/full-bright/version/v1.0.0)
 * GUI
 * Height Overlay
-  * [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
 * Hit Color
   * [Polyfrost's DamageTint](https://modrinth.com/mod/damagetint)
 * Hitboxes
-  * [Polyfrost's PolyHitbox](https://modrinth.com/mod/hitbox)
+  * [Alexdoru's Mega Walls Enhancements](https://github.com/Alexdoru/MWE/releases)
   * [Applepies' Hitboxes](https://modrinth.com/mod/lfhitboxes/versions)
+* Hypixel Utils
+* HyStats
 * In-Game Account Switcher
   * [The_Fireplace's In-Game Account Switcher](https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher/files/2363885)
 * Inventory Blur
@@ -92,10 +96,11 @@
 * Item Physics
   * [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 * Item Size
+  * Resource pack
   * Swing Speed
     * [SyutoBestCoder's Animations](https://github.com/SyutoBestCoder/animations/releases)
 * Item Tracker
-* JustEnoughItems
+* Just Enough Items
   * [mezz's JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files?version=1.8.9)
 * Keystrokes
   * [Polyfrost's Canelex Keystrokes Revamp](https://modrinth.com/mod/keystrokes)
@@ -108,10 +113,11 @@
 * Motion Blur
   * [Polyfrost's PolyBlur](https://modrinth.com/mod/polyblur)
 * Mouse Strokes
+* Mumble Link
+  * [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154/files?version=1.8.9)
 * Name History
 * Name Tags
   * [ArtFect's NameTag Editor](https://hypixel.net/threads/forge-1-8-9-nametag-editor-v1-3.1737434/)
-  * [Polyfrost's PolyNametag](https://modrinth.com/mod/polynametag)
 * Nick Hider
   * [TheExploration's Name Spoofer](https://github.com/TheExploration/Name-Spoofer)
 * Oof
@@ -155,43 +161,54 @@
 * Quickplay
   * [QWERTZexe's Quickjoin](https://modrinth.com/mod/quickjoin)
 * Reach Display
-  * [Polyfrost's EvergreenHUD](https://modrinth.com/mod/evergreenhud)
+* Replay
+  * [Johni0702's ReplayMod](https://modrinth.com/mod/replaymod)
 * Saturation
   * [squeek502's AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore/files?version=1.8.9)
+* Schematica
+  * [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica)
 * Scoreboard
   * [Alexduro's Sidebar Mod](https://github.com/Alexdoru/SidebarMod/releases)
 * Server Address
+  * 5zig mod
+* Servers
 * Shaders
   * [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 * Shiny Pots
   * [Polyfrost's GlintColorizer](https://modrinth.com/mod/glintcolorizer)
+* Speedometer
 * StopWatch
+  * 5zig mod
 * Survival
     * Lock Items in Inventory - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
     * Anti Breaking Tools
     * Show Ender Chest Inventory
     * Inventory Search Bar - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
 * Tab
-    * Background - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
+    * Background 
     * Rows
     * Highlight Own Name - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) (puts a star next to name)
     * Move Self to Top
-    * Scale - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
+    * Scale
     * Font - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files?version=1.8.9)
-    * Disable Header - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
-    * Disable Footer - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
-    * Disable Player Heads - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
-    * Show Ping Numbers - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
-    * Hide Ping - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
-    * Dynamic Ping Color - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
-    * Name Text Shadow - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
-    * Ping Text Shadow - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
-    * Header and Footer Text Shadow - [Polyfrost's VanillaHUD](https://modrinth.com/mod/vanillahud)
+    * Disable Header
+    * Disable Footer 
+    * Disable Player Heads
+    * Show Ping Numbers
+    * Hide Ping
+    * Dynamic Ping Color
+    * Name Text Shadow
+    * Ping Text Shadow
+    * Header and Footer Text Shadow
     * Remove Guild Tags (Hypixel) - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
     * Remove NPCs (Hypixel)- [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
+* Tactical Markers
 * TimeChanger
   * [Daviawcode's Revamped TimeChanger](https://github.com/davidwcode/Revamped-TimeChanger)
+* Timers
+  * [LlamaLad's BLCTimers](https://github.com/LlamaLad7/blctimers/releases)
 * TNT Time
+  * [samzsakerz's TNT Time Mod](https://www.curseforge.com/minecraft/mc-mods/tnt-time-mod)
 * ToggleChat
     * Abbreviate Chat Channels - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils)
     * Abbreviate Ranks
@@ -209,21 +226,26 @@
     * Hide Pre-Game Messages - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
     * Hide Lobby Join Messages - [Polyfrost's Hytils Reborn](https://modrinth.com/mod/hytils) / [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
     * Hide Lobby Messages - [boomboompower's ToggleChat](https://github.com/boomboompower/ToggleChat/releases/latest)
-* ToggleSneak - [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
+* ToggleSneak
+  * [ptlthg's Vanilla Sneak](https://github.com/ptlthg/VanillaSneak/releases/)
 * ToggleSprint
-  * [Lily & Polyfrost's PolySprint](https://modrinth.com/mod/polysprint)
+  * [Alexdoru's Mega Walls Enhancements](https://github.com/Alexdoru/MWE/releases)
   * [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
+  * [ptlthg's Vanilla Sneak](https://github.com/ptlthg/VanillaSneak/releases/)
+* TPS
+  * 5zig mod
+* Uptime
+  * 5zig mod
 * Waypoints
+* Weather Changer
+* World Edit CUI
 * Zoom
   * [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) 
 
 ### Complex
 
-* Mumble Link - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154/files?version=1.8.9)
 * ResourcePack24 - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) and [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
-* Schematica Mod - [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147/files?version=1.8.9)
 * TeamSpeak Mod
-* Timers - [LlamaLad's BLCTimers](https://github.com/LlamaLad7/blctimers/releases/latest)
 
 ### Other
 
@@ -239,8 +261,4 @@ These are mods that Badlion has but are not mentioned in their support for one r
 * Fancy Fonts - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files?version=1.8.9)
 * Ghost Liquid Fix - Don't use
 * HyStats - [KAD7's HyStats](https://cdn.discordapp.com/attachments/1009757412921708604/1134269972877676574/HyStats-v4.0_1.8.9.jar)
-* In-Game Server Switcher
-* Replay Mod - [Johni0702's Replay Mod](https://modrinth.com/mod/replaymod)
-* Text Shadow
-* Weather Changer - [Polyfrost's PolyWeather](https://modrinth.com/mod/polyweather)
 

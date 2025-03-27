@@ -85,7 +85,6 @@
   * [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 * Item Size
   * Swing Speed
-    * [inglettronald's DulkirMod](https://github.com/inglettronald/DulkirMod/releases) (Incompatible with Polyfrost's OverflowAnimationsV2)
     * [SyutoBestCoder's Animations](https://github.com/SyutoBestCoder/animations/releases)
 * Item Tracker
 * JustEnoughItems

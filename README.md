@@ -11,6 +11,19 @@ This project follows similar concept but aims to be smaller, lighter, and more h
 
 No SkyBlock mods since I don't play.
 
+### If you don't know
+
+##### **Resource Packs** and **Shader Packs** may be more powerful than you think!
+
+  - **Resource packs** not only modify item textures, but also modify item models. Mods like **Item Size** can be implemented without relying on the Forge Mods, just by using the original resource packs.
+  - **Shader Packs** control the shaders for the entire game. This means that mods like **Full Brightness**, **Color Saturation**, etc., can be COMPLETELY handled by them. (Although it may lower the FPS, it can still serve as a viable alternative.)
+  
+Some of the mods listed in this project are labeled as:
+```
+Resource pack | Shader pack
+```
+This means that the same functionality can be archived with either, giving you more options!
+
 ### Progress
 
 - [ ] BadLion ✏️

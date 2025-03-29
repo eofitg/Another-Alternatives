@@ -98,6 +98,7 @@
 * Item Size
   * Resource pack
   * Swing Speed
+    * [eofitg's SwingSpeed](https://github.com/eofitg/SwingSpeed/releases)
     * [SyutoBestCoder's Animations](https://github.com/SyutoBestCoder/animations/releases)
 * Item Tracker
 * Just Enough Items

@@ -96,7 +96,8 @@
 * Item Physics
   * [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files?version=1.8.9)
 * Item Size
-  * Resource pack
+  * Size, Position and Rotation
+    * Resource Pack
   * Swing Speed
     * [eofitg's SwingSpeed](https://github.com/eofitg/SwingSpeed/releases)
     * [SyutoBestCoder's Animations](https://github.com/SyutoBestCoder/animations/releases)

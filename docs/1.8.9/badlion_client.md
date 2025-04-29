@@ -202,7 +202,6 @@
 - Fishing Line Color
   - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
 - Fishing Line Width
-  - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
 - Trip Wire Color
 - Water Opacity
   - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) (clear water to an extent)
@@ -210,7 +209,6 @@
   - Resource pack
 - Bigger Items
   - Resource pack
-  - [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
 - Custom Skies
   - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
 - Biome Blending
@@ -270,10 +268,12 @@
 - 5zig mod
 
 ### Survival
-- Lock Items in Inventory - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
+- Lock Items in Inventory 
+  - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
 - Anti Breaking Tools
 - Show Ender Chest Inventory
-- Inventory Search Bar - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
+- Inventory Search Bar 
+  - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
 
 ### Tab
 - Background 
@@ -384,5 +384,3 @@ These are mods that Badlion has but are not mentioned in their support for one r
 - Don't use
 
 ### HyStats
-- [KAD7's HyStats](https://cdn.discordapp.com/attachments/1009757412921708604/1134269972877676574/HyStats-v4.0_1.8.9.jar)
-

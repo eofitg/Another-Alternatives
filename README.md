@@ -40,4 +40,4 @@ This means that the same functionality can be archived with either, expanding yo
 ---
 ### Warning
 
-**⚠ This project is still a work in progress, don't use any mods from the list for now!**
+**⚠ This project is still a work in progress!**

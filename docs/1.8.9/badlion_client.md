@@ -192,10 +192,13 @@
 - [Rakib_The_Gamer_Boy's Lunar Pack Display](https://www.curseforge.com/minecraft/mc-mods/lunar-pack-display)
 
 ### Pack Tweaks
-- Custom Fire - Resource pack
+- Custom Fire 
+  - Resource pack
 - Transparent UI
-- Hide Pumpkin Overlay - Resource pack
-- Visible Tripwires - Resource pack
+- Hide Pumpkin Overlay 
+  - Resource pack
+- Visible Tripwires
+  - Resource pack
 - Fishing Line Color
   - [Moulberry's Not Enough Updates](https://modrinth.com/mod/notenoughupdates)
 - Fishing Line Width
@@ -261,6 +264,7 @@
 ### Shiny Pots
 
 ### Speedometer
+- 5zig mod
 
 ### StopWatch
 - 5zig mod
@@ -354,7 +358,6 @@
 - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) and [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
 
 ## Other
-
 These are mods that Badlion has but are not mentioned in their support for one reason or another.
 
 ### BehindYou
@@ -374,6 +377,7 @@ These are mods that Badlion has but are not mentioned in their support for one r
 - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 
 ### Fancy Fonts 
+- Resource Pack
 - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files?version=1.8.9)
 
 ### Ghost Liquid Fix 

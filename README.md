@@ -11,6 +11,7 @@ This project follows similar concept but aims to be smaller, lighter, and more h
 
 No SkyBlock mods since I don't play.
 
+---
 ### If you don't know
 
 ##### **Resource Packs** and **Shader Packs** may be more powerful than you think!
@@ -28,6 +29,7 @@ Resource pack | Shader pack
 ```
 This means that the same functionality can be archived with either, expanding your options!
 
+---
 ### Progress
 
 - [ ] BadLion ✏️
@@ -35,6 +37,7 @@ This means that the same functionality can be archived with either, expanding yo
 - [ ] 5zig
 - [ ] mod_features ✏️
 
+---
 ### Warning
 
 **⚠ This project is still a work in progress, don't use any mods from the list for now!**

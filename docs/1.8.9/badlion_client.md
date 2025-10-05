@@ -21,6 +21,7 @@
 - Use ChatFilter Mod
 
 ### AutoTip
+- [Ghosty920's AutoTip](https://modrinth.com/mod/autotip)
 
 ### AutoWho
 

@@ -58,7 +58,6 @@
 - Time (color)
 - Highlight Username In Chat 
   - 5zig mod
-  - [Polyfrost's REDACTION](https://modrinth.com/mod/redaction)
 - Toggle Chat (keybind)
 - Copy Coordinates (keybind) 
 - Move Chat Above Hearts

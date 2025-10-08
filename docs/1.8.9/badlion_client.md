@@ -184,6 +184,7 @@
 
 ### Nick Hider
 - [TheExploration's Name Spoofer](https://github.com/TheExploration/Name-Spoofer)
+- [boomboompower's Skin Changer](https://github.com/boomboompower/SkinChanger/)
 
 ### Oof
 - Resource Pack

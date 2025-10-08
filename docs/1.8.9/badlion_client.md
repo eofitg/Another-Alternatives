@@ -6,7 +6,6 @@
 
 ### Animations
 - [OldAnimationsMod](https://oldanimationsmod.net/index.php?page=downloads)
-- [Polyfrost's OverflowAnimations](https://modrinth.com/mod/animations)
 
 ### Armor Status
 - [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
@@ -77,7 +76,7 @@
 ### Clock
 
 ### Color Saturation
-  - Shader pack
+- Shader pack
 
 ### Combo Counter
 
@@ -117,7 +116,6 @@
 ### Height Overlay
 
 ### Hit Color
-- [Polyfrost's DamageTint](https://modrinth.com/mod/damagetint)
 
 ### Hitboxes
 - [Alexdoru's Mega Walls Enhancements](https://github.com/Alexdoru/MWE/releases)
@@ -134,7 +132,6 @@
 - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
 
 ### Item Counter
-- [ImToggles's Item Counter](https://modrinth.com/mod/item-counter-mod)
 
 ### Item Info
 
@@ -154,7 +151,6 @@
 - [mezz's JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files?version=1.8.9)
 
 ### Keystrokes
-- [Polyfrost's Canelex Keystrokes Revamp](https://modrinth.com/mod/keystrokes)
 
 ### Levelhead
 
@@ -169,7 +165,6 @@
 
 ### Motion Blur
 - Shader Pack
-- [Polyfrost's PolyBlur](https://modrinth.com/mod/polyblur)
 
 ### Mouse Strokes
 
@@ -363,7 +358,6 @@
 These are mods that Badlion has but are not mentioned in their support for one reason or another.
 
 ### BehindYou
-- [Polyfrost's BehindYouV3](https://modrinth.com/mod/behindyou)
 
 ### Clan Wars 
 - Irrelevant
@@ -382,7 +376,6 @@ These are mods that Badlion has but are not mentioned in their support for one r
 - Resource Pack
 - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files?version=1.8.9)
 
-### Ghost Liquid Fix 
-- Don't use
+### Ghost Liquid Fix
 
 ### HyStats

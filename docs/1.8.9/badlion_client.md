@@ -378,3 +378,6 @@ These are mods that Badlion has but are not mentioned in their support for one r
 ### Ghost Liquid Fix
 
 ### HyStats
+
+### No Mouse Scrolling
+- [SmajloSlovakian's Unscrollify Hotbar](https://modrinth.com/mod/unscrollify)

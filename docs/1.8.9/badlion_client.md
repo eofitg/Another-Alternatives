@@ -381,3 +381,6 @@ These are mods that Badlion has but are not mentioned in their support for one r
 
 ### No Mouse Scrolling
 - [SmajloSlovakian's Unscrollify Hotbar](https://modrinth.com/mod/unscrollify)
+
+### Modern Key Handling
+- [rocoodev's PortalInputFix](https://github.com/roccodev/PortalInputFix) | [Mac Version](https://github.com/eofitg/PortalInputFix)

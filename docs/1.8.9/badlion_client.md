@@ -12,6 +12,7 @@
 - [Dmitrylovin's Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 
 ### Auto Friend
+- Use ChatFilter Mod
 
 ### Auto Text
 

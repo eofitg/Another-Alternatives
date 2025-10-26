@@ -101,6 +101,7 @@
 - [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### Enchant Glint
+- Resource pack
 
 ### F3 Menu
 

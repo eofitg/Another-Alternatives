@@ -14,7 +14,6 @@
 ### Auto Friend
 
 ### Auto Text
-- [RedthMC's AutoText](https://github.com/RedthMC/AutoText/releases/latest)
 
 ### AutoGG/AutoGL
 - Use ChatFilter Mod

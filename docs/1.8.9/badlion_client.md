@@ -42,13 +42,16 @@
 
 ### Boss bar
 - [OldAnimationsMod](https://oldanimationsmod.net/index.php?page=downloads) | [No Cosmetics](https://github.com/FluzerQAQ/OldAnimationsMod)
+- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### Chat
 - 24 Hour
 - Bold
 - Anti-Spam
 - Time Format
+  - [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 - Infinite History
+  - [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 - History Length
 - Smooth Chat
   - 5zig mod
@@ -73,6 +76,7 @@
 - Resource pack
 
 ### Clock
+- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### Color Saturation
 - Shader pack
@@ -80,9 +84,11 @@
 ### Combo Counter
 
 ### Coordinates
+- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### CPS Counter
 - [Dams4K's CPS Display](https://www.curseforge.com/minecraft/mc-mods/cpsdisplay)
+- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### Crosshair Mod
 - [Sparkless101's Custom Crosshair Mod](https://modrinth.com/mod/custom-crosshair-mod) | [Alt Link](https://customcrosshairmod.com/)
@@ -92,6 +98,7 @@
 
 ### Direction
 - [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
+- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### Enchant Glint
 
@@ -100,10 +107,12 @@
 ### Fog Customizer
 
 ### FOV Changer
+- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### FPS
 - 5zig mod
 - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
+- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### Fullbright
 - Resource pack
@@ -118,6 +127,7 @@
 
 ### Hitboxes
 - [Alexdoru's Mega Walls Enhancements](https://github.com/Alexdoru/MWE/releases)
+- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 - [Applepies' Hitboxes](https://modrinth.com/mod/lfhitboxes/versions)
 
 ### Hypixel Utils
@@ -156,6 +166,7 @@
 ### Light Overlay
 
 ### Memory
+- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### MiniMap
 - [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files?version=1.8.9)
@@ -250,6 +261,7 @@
 
 ### Server Address
 - 5zig mod
+- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### Servers
 
@@ -274,6 +286,9 @@
 
 ### Tab
 - Background 
+  - [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
+- Toggle Tab
+  - [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 - Rows
 - Highlight Own Name 
 - Move Self to Top
@@ -284,6 +299,7 @@
 - Disable Footer 
 - Disable Player Heads
 - Show Ping Numbers
+  - [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 - Hide Ping
 - Dynamic Ping Color
 - Name Text Shadow
@@ -382,6 +398,9 @@ These are mods that Badlion has but are not mentioned in their support for one r
 
 ### No Mouse Scrolling
 - [SmajloSlovakian's Unscrollify Hotbar](https://modrinth.com/mod/unscrollify)
+
+### No Smooth Camera While Zoom
+- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### Modern Key Handling
 - [rocoodev's PortalInputFix](https://github.com/roccodev/PortalInputFix) | [Mac Version](https://github.com/eofitg/PortalInputFix)

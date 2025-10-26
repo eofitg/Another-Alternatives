@@ -41,7 +41,7 @@
 - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar) | [Alt Link](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 
 ### Boss bar
-- [OldAnimationsMod](https://oldanimationsmod.net/index.php?page=downloads)
+- [OldAnimationsMod](https://oldanimationsmod.net/index.php?page=downloads) | [No Cosmetics](https://github.com/FluzerQAQ/OldAnimationsMod)
 
 ### Chat
 - 24 Hour

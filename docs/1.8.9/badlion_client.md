@@ -5,7 +5,7 @@
 ### 3D Skins
 
 ### Animations
-- [OldAnimationsMod](https://oldanimationsmod.net/index.php?page=downloads)
+- [OldAnimationsMod](https://oldanimationsmod.net/index.php?page=downloads) | [No Cosmetics](https://github.com/FluzerQAQ/OldAnimationsMod)
 
 ### Armor Status
 - [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)

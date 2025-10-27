@@ -125,6 +125,7 @@
 - [Armandukx's Fullbright](https://modrinth.com/mod/full-bright/version/v1.0.0)
 
 ### GUI
+- [Moulberry's Better Scaled GUI](https://github.com/Moulberry/BetterScaledGUI)
 
 ### Height Overlay
 

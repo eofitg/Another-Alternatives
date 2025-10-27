@@ -1,6 +1,6 @@
 # Badlion Client Alternatives
 
-## Mods
+## Mod Categories
 
 ### 3D Skins
 

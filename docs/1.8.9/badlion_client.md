@@ -381,6 +381,8 @@
 - No Smooth Camera
   - [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
+---
+
 ## Better Frames
 
 ### Item Stitching
@@ -520,6 +522,8 @@
 ### Font
 - Resource Pack
 - [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files?version=1.8.9)
+
+---
 
 ## Other
 

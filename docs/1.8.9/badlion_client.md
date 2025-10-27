@@ -24,21 +24,13 @@
 
 ### AutoWho
 
-### Bedwars Beds
-
-### Bedwars Teams
-
-### Bedwars Tweaks
-- Hearts
-  - [Moulberry's Bedwars Hearts](https://github.com/Moulberry/BedwarsHearts)
-
-### Bedwars Upgrade Display
+### Bed Colors
 
 ### BehindYou
 
 ### Block Counter
 
-### BlockInfo
+### Block Info
 - [Profmobius's What Am I Looking At](https://www.curseforge.com/minecraft/mc-mods/waila/files?version=1.8.9)
 
 ### Block Overlay
@@ -90,11 +82,11 @@
 ### Coordinates
 - [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
-### CPS Counter
+### CPS
 - [Dams4K's CPS Display](https://www.curseforge.com/minecraft/mc-mods/cpsdisplay)
 - [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
-### Crosshair Mod
+### Crosshair
 - [Sparkless101's Custom Crosshair Mod](https://modrinth.com/mod/custom-crosshair-mod) | [Alt Link](https://customcrosshairmod.com/)
 
 ### Damage Tint
@@ -140,9 +132,6 @@
 ### Hypixel Utils
 
 ### HyStats
-
-### In-Game Account Switcher
-- [The_Fireplace's In-Game Account Switcher](https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher/files/2363885)
 
 ### Inventory Blur
 - [tterrag's Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files?version=1.8.9)
@@ -190,6 +179,7 @@
 
 ### Name History
 - 5zig mod
+- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### Name Tags
 - [ArtFect's NameTag Editor](https://hypixel.net/threads/forge-1-8-9-nametag-editor-v1-3.1737434/)
@@ -198,7 +188,7 @@
 - [TheExploration's Name Spoofer](https://github.com/TheExploration/Name-Spoofer)
 - [boomboompower's Skin Changer](https://github.com/boomboompower/SkinChanger/)
 
-### Oof
+### OofMod
 - Resource Pack
 - [Refraction's OofMod](https://sk1er.club/mods/refractionoof)
 
@@ -233,7 +223,7 @@
 
 ### Particles
 
-### Perspective Mod
+### Perspective
 - [DJtheRedstoner's Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/latest)
 
 ### Ping
@@ -246,8 +236,10 @@
 - [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
 
 ### Protection
+- 5zig mod
 
 ### PvP Info
+- 5zig mod
 
 ### Quickplay
 - [QWERTZexe's Quickjoin](https://modrinth.com/mod/quickjoin)
@@ -272,13 +264,16 @@
 
 ### Servers
 
-### Shaders
-- [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)
-
 ### Shiny Pots
+
+### Skyblock
+
+### Sounds Mod
 
 ### Speedometer
 - 5zig mod
+
+### Speedrun
 
 ### StopWatch
 - 5zig mod
@@ -317,6 +312,10 @@
 
 ### Tactical Markers
 
+### Team Marker
+
+### Team Display
+
 ### TeamSpeak
 
 ### TimeChanger
@@ -347,21 +346,29 @@
 - Hide Party Invites 
 - Hide Pre-Game Messages 
 - Hide Lobby Join Messages 
-- Hide Lobby Messages 
-
-### ToggleSneak
-- [ptlthg's Vanilla Sneak](https://github.com/ptlthg/VanillaSneak/releases/)
+- Hide Lobby Messages
 
 ### ToggleSprint
-- [Alexdoru's Mega Walls Enhancements](https://github.com/Alexdoru/MWE/releases)
-- [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
-- [ptlthg's Vanilla Sneak](https://github.com/ptlthg/VanillaSneak/releases/)
+- Toggle Sprint
+  - [Alexdoru's Mega Walls Enhancements](https://github.com/Alexdoru/MWE/releases)
+  - [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
+  - [ptlthg's Vanilla Sneak](https://github.com/ptlthg/VanillaSneak/releases/)
+- Toggle Sneak
+  - [ptlthg's Vanilla Sneak](https://github.com/ptlthg/VanillaSneak/releases/)
 
 ### TPS
 - 5zig mod
 
+### Tweaks
+- Bedwars Hearts
+  - [Moulberry's Bedwars Hearts](https://github.com/Moulberry/BedwarsHearts)
+
+### Upgrade Display
+
 ### Uptime
 - 5zig mod
+
+### Voice MOd
 
 ### Waypoints
 
@@ -393,12 +400,17 @@
 
 ### Ghost Liquid Fix
 
+### In-Game Account Switcher
+- [The_Fireplace's In-Game Account Switcher](https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher/files/2363885)
+
 ### Modern Key Handling
 - [rocoodev's PortalInputFix](https://github.com/roccodev/PortalInputFix) | [Mac Version](https://github.com/eofitg/PortalInputFix)
+
+### No Smooth Camera While Zoom
+- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### ResourcePack24
 - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) and [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
 
-### No Smooth Camera While Zoom
-- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
-- 
+### Shaders
+- [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar)

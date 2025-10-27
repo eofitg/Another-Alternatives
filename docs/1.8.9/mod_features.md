@@ -56,38 +56,20 @@ Introducing the features of some integrated mods. (so that you can choose accord
 
 | Mod | Reason | Author |
 | --- | --- | --- |
-| BedwarsHearts | Use [Hytils Reborn](https://modrinth.com/mod/hytils) | [Moulberry](https://github.com/Moulberry) |
-| Better Night Vision | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Microcontrollers](https://github.com/MicrocontrollerseDev) |
 | BetterFPS | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Guichaguri](https://github.com/Guichaguri) |
-| BetterScaledGui | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Moulberry](https://github.com/Moulberry) |
 | Clean View | Use [OverflowParticles](https://modrinth.com/mod/overflowparticles) | [LianMI](https://github.com/zlainsama) |
 | Entity Culling | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [tr7zw](https://github.com/tr7zw) |
 | Fancy Warp Menu | Use [SkyblockAddons Unofficial]() | [TirelessTraveler](https://github.com/ILikePlayingGames) |
-| Height Limit Mod | Use [Hytils Reborn](https://modrinth.com/mod/hytils) | [catsonluna](https://github.com/catsonluna) |
-| Hychat | Use [Chatting](https://modrinth.com/mod/chatting) & [Hytils Reborn](https://modrinth.com/mod/hytils) | [Moulberry](https://github.com/Moulberry) |
-| InputFix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [LianMI](https://github.com/zlainsama) |
 | LobbyGlow | Use [Entity Glow](https://modrinth.com/mod/entity-glow) | [Biscuut](https://github.com/biscuut) |
 | MCHudCaching | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Moulberry](https://github.com/Moulberry) |
 | NoCloseMyChat | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Cecer](https://hypixel.net/members/cecer.61889) |
-| NoHitFix | This mod is bannable on all 1.8+ only servers. It is not a fix, it is a cheat. | [Moulberry](https://github.com/Moulberry) |
-| NoScroll | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Revxrsal](https://hypixel.net/members/revxrsal.1109532) |
-| OldAnimationsMod | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [spiderfrog](https://www.youtube.com/channel/UC0Cz31K6IE09o8LF5Hpzymw) |
 | Orange's 1.7 Animations | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
-| Orange's Simple Mods | Use [EvergreenHUD](https://modrinth.com/mod/evergreenhud) & [Potion Effects](https://github.com/Tellinq/Potion-Effects/releases/latest) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
 | ProjectL | Use [OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
 | QuickPlay | Use [Quickjoin](https://modrinth.com/mod/quickjoin) & [Reward Claim](https://modrinth.com/mod/reward-claim) | [bugfroggy](https://github.com/robere2) |
-| Resource Exploit Fix | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
-| Resource Pack Organizer | Use [Resource Pack Manager](https://skyclient.co/mod/rpm) | [chylex](https://github.com/chylex) |
-| Scrollable Tooltips | Use [VanillaHUD](https://modrinth.com/mod/vanillahud) | [Sk1erLLC](https://github.com/Sk1erLLC) |
-| ServerListBufferFixer | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | SimpleToggleSprint | Use [PolySprint](https://modrinth.com/mod/polysprint) | [My-Name-Is-Jeff](https://github.com/My-Name-Is-Jeff) |
-| Sk1er Old Animations Mod | Use [OverflowAnimations](https://modrinth.com/mod/animations) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | SkyblockAddons | Use [SkyblockAddons Unofficial](https://modrinth.com/mod/skyblockaddons-unofficial) | [Biscuit](https://github.com/BiscuitDevelopment) |
 | Soopy | Discontinued, [see alternatives](https://alternatives.microcontrollers.dev/1.8.9/soopy) | [SoopyBoo32](https://github.com/Soopyboo32) |
 | Synthesis | Discontinued | [Antonio32A](https://github.com/Antonio32A), [ComplexOrigin](https://github.com/complexorigin), [Desco1](https://github.com/Desco1), [RayDeeUx](https://github.com/RayDeeUx) |
-| Smooth Scrolling Everywhere | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 | TCPNoDelay | This issue was fixed in vanilla Minecraft 1.8.1 | [prplz](https://github.com/prplz) |
-| Vanilla Enhancements | Use [PolyPatcher](https://modrinth.com/mod/patcher) & [Chatting](https://modrinth.com/mod/chatting) | [OrangeMarshall](https://hypixel.net/members/orangemarshall.21118) |
 | Void Chat | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [skyerzz](https://github.com/skyerzz) |
-| Windowed Fullscreen | Use [PolyPatcher](https://modrinth.com/mod/patcher) | [Sk1erLLC](https://github.com/Sk1erLLC) |
 

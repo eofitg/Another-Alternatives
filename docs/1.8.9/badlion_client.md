@@ -129,6 +129,7 @@
 ### Height Overlay
 
 ### Hit Color
+- Shader Pack
 
 ### Hitboxes
 - [Alexdoru's Mega Walls Enhancements](https://github.com/Alexdoru/MWE/releases)

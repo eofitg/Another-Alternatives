@@ -29,6 +29,8 @@
 ### Bedwars Teams
 
 ### Bedwars Tweaks
+- Hearts
+  - [Moulberry's Bedwars Hearts](https://github.com/Moulberry/BedwarsHearts)
 
 ### Bedwars Upgrade Display
 

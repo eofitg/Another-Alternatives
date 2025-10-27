@@ -32,6 +32,8 @@
 
 ### Bedwars Upgrade Display
 
+### BehindYou
+
 ### Block Counter
 
 ### BlockInfo
@@ -366,18 +368,7 @@
 ### Zoom
 - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) 
 
-## Complex
-
-### ResourcePack24 
-- [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) and [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
-
 ## Other
-These are mods that Badlion has but are not mentioned in their support for one reason or another.
-
-### BehindYou
-
-### Clan Wars 
-- Irrelevant
 
 ### Cosmetics 
 - [Microcontrollers's Mixmetica](https://modrinth.com/mod/mixmetica)
@@ -385,6 +376,9 @@ These are mods that Badlion has but are not mentioned in their support for one r
 - Sprays
 - Wavey Capes 
   - [tr7zw's Wavey Capes](https://modrinth.com/mod/wavey-capes)
+
+### Disable Mouse Scrolling
+- [SmajloSlovakian's Unscrollify Hotbar](https://modrinth.com/mod/unscrollify)
 
 ### Discord Rich Presence 
 - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
@@ -395,13 +389,12 @@ These are mods that Badlion has but are not mentioned in their support for one r
 
 ### Ghost Liquid Fix
 
-### HyStats
+### Modern Key Handling
+- [rocoodev's PortalInputFix](https://github.com/roccodev/PortalInputFix) | [Mac Version](https://github.com/eofitg/PortalInputFix)
 
-### No Mouse Scrolling
-- [SmajloSlovakian's Unscrollify Hotbar](https://modrinth.com/mod/unscrollify)
+### ResourcePack24
+- [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) and [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)
 
 ### No Smooth Camera While Zoom
 - [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
-
-### Modern Key Handling
-- [rocoodev's PortalInputFix](https://github.com/roccodev/PortalInputFix) | [Mac Version](https://github.com/eofitg/PortalInputFix)
+- 

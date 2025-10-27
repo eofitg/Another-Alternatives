@@ -53,7 +53,10 @@
   - 5zig mod
   - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat)
 - No Close My Chat
-- Background (color)
+- Background
+  - Remove Background
+    - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat)
+  - Color
 - Time (color)
 - Highlight Username In Chat 
   - 5zig mod

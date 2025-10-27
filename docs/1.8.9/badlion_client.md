@@ -378,6 +378,148 @@
 
 ### Zoom
 - [sp614x's OptiFine](https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar) 
+- No Smooth Camera
+  - [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
+
+## Better Frames
+
+### Item Stitching
+
+### Weather
+
+### Reduced Chunk Updates
+
+### Fog Enabled
+
+### World Switch Dirt Screen
+
+### Chat Name Color
+
+### New Chat
+
+### Chat FPS Boost
+
+### Clear Glass
+
+### Disabling
+- Achievements
+- Portal Textures
+- Mob In Spawner
+- Spawner Particles
+- Lava Particles
+- Map Rendering
+- Particle Lighting
+- Tall Grass
+- Double Tall Grass
+- Flowers
+- Double Tall Flowers
+- Fences
+- Fence Gates
+- Skulls
+
+### Check GL Error
+
+### Block Harvest Particles
+- [eofitg's Particles Hider](https://github.com/eofitg/ParticlesHider)
+
+### Persist Movement
+- [rocoodev's PortalInputFix](https://github.com/roccodev/PortalInputFix) | [Mac Version](https://github.com/eofitg/PortalInputFix)
+
+### Centered Potion Inventory
+
+### Remove Vanilla Potion HUD
+
+### Borderless Window
+
+### Disable Nametags In F1
+
+### Ping Numbers
+
+### Nametag Borders
+
+### Fps Boost
+
+### Show F5 Nametags
+
+### Nametags Text Shadow
+
+### Scorllable Tooltip
+- Smooth
+- Size Limit
+- Max Height
+
+### Enable Ore Overlays
+
+### Hiding
+- Armor Stands
+- Item Frames
+- Stuck Arrows
+- Ground Arrows
+
+### Model Bobbing Only
+
+### Crosshair In F5
+
+### Smooth Lighting
+
+### Render Distance Multiplier
+- Player
+- Passive
+- Hostile
+- Misc
+
+### World Optimization
+
+### Experimental World Optimizations
+
+### Buffer Improvements
+
+### Multi Core Optimization
+
+### Tile Entity Batching
+
+### Sign Text Optimization
+
+### Chuck Build Optimization 18
+
+### Pre Experimental FPS Boost
+
+### Item Batching
+
+### Water Opacity
+
+### Batch Items
+
+### Chuck Face Culling
+
+### Chuck Group Size
+
+### Optimized Entity Movement
+
+### Transparent Resource Packs Menu Background
+
+### Auto Reconnect
+
+### Smart Disconnect
+
+### Instant World Load
+
+### Use Raw Mouse Input
+
+### GPU Fencing Threshold
+
+### Force Disable Retina
+
+### Limit Unfocused FPS
+
+### Disable Scroll
+- [SmajloSlovakian's Unscrollify Hotbar](https://modrinth.com/mod/unscrollify)
+
+### Old Single Player Menu
+
+### Font
+- Resource Pack
+- [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files?version=1.8.9)
 
 ## Other
 
@@ -388,26 +530,11 @@
 - Wavey Capes 
   - [tr7zw's Wavey Capes](https://modrinth.com/mod/wavey-capes)
 
-### Disable Mouse Scrolling
-- [SmajloSlovakian's Unscrollify Hotbar](https://modrinth.com/mod/unscrollify)
-
 ### Discord Rich Presence 
 - [DeDiamondPro's HyCord](https://github.com/DeDiamondPro/HyCord/releases/latest)
 
-### Fancy Fonts 
-- Resource Pack
-- [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files?version=1.8.9)
-
-### Ghost Liquid Fix
-
 ### In-Game Account Switcher
 - [The_Fireplace's In-Game Account Switcher](https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher/files/2363885)
-
-### Modern Key Handling
-- [rocoodev's PortalInputFix](https://github.com/roccodev/PortalInputFix) | [Mac Version](https://github.com/eofitg/PortalInputFix)
-
-### No Smooth Camera While Zoom
-- [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### ResourcePack24
 - [Aycy's Resource Pack Manager](https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar) (Only adds the ability to make folders and a better GUI) and [DeDiamondPro's Resourcify](https://modrinth.com/mod/resourcify) (Only adds ability to download and update packs from Modrinth)

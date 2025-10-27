@@ -1,5 +1,7 @@
 # Old Animations Mod
 
+Author: [spiderfrog]([spiderfrog](https://www.youtube.com/channel/UC0Cz31K6IE09o8LF5Hpzymw))
+
 [Official Download](https://oldanimationsmod.net/index.php?page=downloads)
 
 [No Cosmetics Version By FluzerQAQ](https://github.com/FluzerQAQ/OldAnimationsMod)

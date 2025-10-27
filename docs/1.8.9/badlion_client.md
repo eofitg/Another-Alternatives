@@ -55,7 +55,7 @@
 - History Length
 - Smooth Chat
   - 5zig mod
-  - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/download/3249065)
+  - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat)
 - No Close My Chat
 - Background (color)
 - Time (color)
@@ -64,7 +64,7 @@
 - Toggle Chat (keybind)
 - Copy Coordinates (keybind) 
 - Move Chat Above Hearts
-  - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat/download/3249065)
+  - [LlamaLad7's Better Chat](https://www.curseforge.com/minecraft/mc-mods/better-chat)
 - Smooth Chat Speed
 
 ### Chunk Borders 

@@ -5,7 +5,7 @@
 ### 3D Skins
 
 ### Animations
-- [OldAnimationsMod](https://oldanimationsmod.net/index.php?page=downloads) | [No Cosmetics](https://github.com/FluzerQAQ/OldAnimationsMod)
+- [OldAnimationsMod](../mods/OldAnimationsMod.md)
 
 ### Armor Status
 - [OrangeMarshall's Orange's SimpleMods](https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/)
@@ -41,7 +41,7 @@
 - [Aycy's BlockOverlay](https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar) | [Alt Link](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 
 ### Boss bar
-- [OldAnimationsMod](https://oldanimationsmod.net/index.php?page=downloads) | [No Cosmetics](https://github.com/FluzerQAQ/OldAnimationsMod)
+- [OldAnimationsMod](../mods/OldAnimationsMod.md)
 - [OrangeMarshall's Vanilla Enchantments](https://legacy.curseforge.com/minecraft/mc-mods/vanilla-enhancements) | [Alt Link](https://hypixel.net/threads/forge-vanilla-enhancements-mod-v7-7.541653)
 
 ### Chat
